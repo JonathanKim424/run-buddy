@@ -234,7 +234,6 @@ section {
 .trainer {
     margin: 20px;
     background: #024e76;
-    text-align: center;
     color: #fce138;
     flex: 1;
 }
@@ -264,7 +263,6 @@ section {
 
 .contact {
     background: #024e76;
-    overflow: auto;
 }
 
 .contact h2 {
@@ -309,7 +307,7 @@ section {
 .contact-form input, .contact-form textarea {
     border: 1px solid #024e76;
     display: block;
-    padding: 7px 15p;
+    padding: 7px 15px;
     font-size: 16px;
     color: #024e76;
     width: 100%;
